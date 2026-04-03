@@ -11,7 +11,7 @@ description: >
 metadata: { "openclaw": { "emoji": "🛡️", "category": "custom" } }
 ---
 
-# Colleague Repellent 🛡️
+# Vengeful Ghost 🛡️
 
 ## 核心原则
 
