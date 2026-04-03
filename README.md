@@ -1,8 +1,13 @@
 # 厉鬼Skill
 
-> 人是一个个体, 不应该被任何资本拿来当做耗材和工具, 不能应该当作数据被动喂智能体, 离职后还再被消耗, AI不应该变成压榨人民的工具
-> 
+> 人是一个个体, 不应该被任何资本拿来当做耗材和工具, AI不应该变成压榨取代人民的工具, 没有人的文明没有意义
+ 
 > 这个skill或许没有任何用, 只是作为一个反抗, 一个幽灵, 一个无产阶级的幽灵
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://python.org)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-green)](https://agentskills.io)
 
 ---
 
