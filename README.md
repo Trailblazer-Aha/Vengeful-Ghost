@@ -1,6 +1,6 @@
 # 厉鬼Skill
 
-> 人是一个个体, 不应该被任何资本拿来当做耗材和工具, 不能应该当作数据被动喂智能体, 离职后还再被消耗
+> 人是一个个体, 不应该被任何资本拿来当做耗材和工具, 不能应该当作数据被动喂智能体, 离职后还再被消耗, AI不应该变成压榨人民的工具
 > 这个skill或许没有任何用, 只是作为一个反抗, 一个幽灵, 一个无产阶级的幽灵
 
 ---
@@ -69,9 +69,6 @@ colleague-repellent/
 
 适合安装在公司统一部署的 AI 助手上，或者任何支持 OpenClaw Skill 的环境。
 
-**从 Knot 安装：**  
-https://knot.woa.com/activity-work-list?my_works=1&action=detail&id=178
-
 **手动安装：**
 ```bash
 git clone https://github.com/your-username/colleague-repellent
@@ -112,5 +109,3 @@ git clone https://github.com/your-username/colleague-repellent
 用技术，捍卫人的尊严。
 
 ---
-
-*Built with [OpenClaw](https://openclaw.woa.com) · 参赛作品 [Knot 2025](https://knot.woa.com)*
